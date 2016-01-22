@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[SinCOM]]></title>
+        <description><![CDATA[SinCOM]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 22 Jan 2016 16:48:37 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[SinCOM LLC - Sport Management Agency]]></title>
+            <description><![CDATA[<article><h1>SinCOM LLC - Sport Management Agency</h1><p>We are a sport consultancy & management agency based in Switzerland,
+ combining global reach with local expertise, providing since 2005 a 
+personalised experience wherever you are in the world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0c645d593e7e415724b0b04329646e47e7a4178d.jpg"></article>]]></description>
+            <link>undefinedsincom-llc-sport-management-agency/index.html</link>
+            <guid isPermaLink="false">32beeb5c-86c2-4029-affa-70d23767ac87</guid>
+            <pubDate>Fri, 22 Jan 2016 16:48:33 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
