@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[SinCOM]]></title>
         <description><![CDATA[SinCOM]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sincom/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jan 2016 16:48:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 22 Jan 2016 16:48:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sincom/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ice Hockey]]></title>
+            <description><![CDATA[<article><h1>Ice Hockey</h1><p>For any request concerning our Sport Consulting and Management Services please feel free to contact us:</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/571ae13a-31a7-4dda-a582-77dbeb239c57.jpg"></article>]]></description>
+            <link>https://thegrid.ai/sincom/ice-hockey/index.html</link>
+            <guid isPermaLink="false">96882b68-18e3-4179-80ad-60f4e100bcd6</guid>
+            <pubDate>Fri, 22 Jan 2016 16:48:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[SinCOM LLC - Sport Management Agency]]></title>
             <description><![CDATA[<article><h1>SinCOM LLC - Sport Management Agency</h1><p>We are a sport consultancy & management agency based in Switzerland,
  combining global reach with local expertise, providing since 2005 a 
 personalised experience wherever you are in the world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0c645d593e7e415724b0b04329646e47e7a4178d.jpg"></article>]]></description>
-            <link>undefinedsincom-llc-sport-management-agency/index.html</link>
+            <link>https://thegrid.ai/sincom/sincom-llc-sport-management-agency/index.html</link>
             <guid isPermaLink="false">32beeb5c-86c2-4029-affa-70d23767ac87</guid>
             <pubDate>Fri, 22 Jan 2016 16:48:33 GMT</pubDate>
         </item>
